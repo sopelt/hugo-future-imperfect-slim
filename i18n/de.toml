@@ -35,7 +35,7 @@
 [404_pagenotfound]
   other = "Seite nicht gefunden"
 [404_sorry]
-  other = "Entschuldigung, die Seite, die Sie suchen, ist leider nicht gibt."
+  other = "Entschuldigung, diese Seite existiert leider nicht."
 [404_goback]
   other = "Gehe zurück"
 [blog]
